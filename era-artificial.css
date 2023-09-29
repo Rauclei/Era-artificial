@@ -1,0 +1,59 @@
+body {
+    width: auto;
+    text-align: center;
+    background-color: rgb(252, 252, 243);
+}
+
+div {
+
+    border-bottom: 1px solid rgb(163, 163, 163);
+    padding: 30px;
+}
+
+h1 {
+    font-size: 25px;
+    font-family: tahoma;
+    font-weight: bold;
+}
+
+img {
+    width: 190px;
+}
+
+h2 {
+    font-size: 24px;
+    font-family: tahoma;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 20px;
+    font-family: tahoma;
+    font-weight: bold;
+    padding-top: 10px;
+
+}
+
+p {
+    width: 850px;
+    font-size: 18px;
+    text-align: center;
+    line-height: 30px;
+    margin: 0px auto;
+    padding: 15px;
+}
+
+a {
+    font-size: 14px;
+    color: white;
+    background-color: rgb(95, 180, 95);
+    border-radius: 30px;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+
+span {
+    font-size: 15px;
+    font-weight: bold;
+    font-family: tahoma;
+}
